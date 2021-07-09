@@ -1,0 +1,33 @@
+body {
+    padding: 2rem 0rem;
+    background-color: blanchedalmond;
+  }
+  
+  .like {
+    font-size: 1.5rem;
+  }
+  
+  .card-img {
+    padding: 5px;
+    width: 200px;
+    height: 180px;
+    margin: 5%;
+  }
+
+  .card{
+    margin-top: 2rem;
+    width: 25em;
+    height: 40em;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 5px;
+    margin-left: 25%;
+    margin-right: 25%;
+    background: -webkit-linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+    background: -o-linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+    background: -moz-linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+    background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+    font-size: 5em;
+}
